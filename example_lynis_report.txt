@@ -1,0 +1,9 @@
+[ Lynis Audit Report ]
+Hardening Index : 78
+Warnings        : 5
+Suggestions     : 12
+
+- Disable root login over SSH [OK]
+- UFW Firewall configured [OK]
+- Unused packages removed [OK]
+- Password policy: Weak [WARN]
